@@ -1,0 +1,32 @@
+﻿  include.cpp
+  SynthNote.cpp
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(41,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(57,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(153,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(155,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(157,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(167,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(168,29): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(174,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(178,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(181,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(184,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(187,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(193,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(198,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(227,36): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(228,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(229,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(230,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(231,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(232,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(253,24): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(274,24): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthNote.cpp(278,20): warning C4305: '*=': truncation from 'double' to 'float'
+  SynthPlugin.cpp
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthPlugin.cpp(43,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthPlugin.cpp(45,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\src\SynthPlugin.cpp(108,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\..\Build\MySynth\Debug\MySynth.lib and object C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\MySynth\..\Build\MySynth\Debug\MySynth.exp
+  MySynth.vcxproj -> C:\Users\Nathan\Documents\OpalsAudio\AudioProgramming\Example Projects\Digilog\Digilog\Build\MySynth.dll
